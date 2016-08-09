@@ -1,0 +1,6 @@
+{
+  "name": "Examples with JAX-RS RESTful and CDI",
+  "tagline": "Examples of how to use JAX-RS RESTful webservices with CDI Bean Injection support in Java EE platform.",
+  "body": "### Java - Rest + CDI\r\nRecently, a colleague of mine needed to implement some RESTful Web Services on the JavaEE platform. At some point he asked for my help making the code to run.\r\n\r\nAfter some dull tries I went home and finished a sample example so I could show and help him finish his task.\r\n\r\n### Tech stuff\r\nI used the following:\r\n* Eclipse Mars 2 4.5.2\r\n* Wildfly 10.0 Final (JEE 7, Weld impl. for CDI)\r\n* Jersey Servelet 1.19.1\r\n* Apache Maven 3.3.9\r\n* Java JDK 1.8.0_74 64 Bits\r\n* Windows 10 Home SL",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
